@@ -1,9 +1,4 @@
 #Maribel Cifuentes Torres
-#Grupo: 213022_515
-#Programa: Fundamentos de programación
-#Fecha: 08/03/2025
-#Código Fuente: autoría propia
-
 #Título: Sistema de compra de entradas para El Campín
 #Objetivo: Calcular el total a pagar por la compra de entradas para un partido de fútbol en el estadio El Campín.
 #Entradas: Código del sector y cantidad de boletas.
